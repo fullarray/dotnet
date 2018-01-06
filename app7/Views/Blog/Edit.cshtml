@@ -7,7 +7,6 @@
 @section Head{
     <link rel="stylesheet" href="~/css/admin.scss" />
 }
-
 <form method="post" id="edit" class="container" asp-controller="Blog" asp-action="UpdatePost">
     <div asp-validation-summary="All"></div>
     <input type="hidden" asp-for="@Model.ID" />
