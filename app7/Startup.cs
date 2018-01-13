@@ -28,7 +28,8 @@ namespace app7
         {
             BuildWebHost(args).Run();
         }
-
+        
+        //Define builder method
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
