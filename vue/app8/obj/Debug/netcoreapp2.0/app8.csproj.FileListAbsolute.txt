@@ -1,0 +1,10 @@
+C:\Users\swb\Documents\Projects\dotNet\app8\bin\Debug\netcoreapp2.0\app8.deps.json
+C:\Users\swb\Documents\Projects\dotNet\app8\bin\Debug\netcoreapp2.0\app8.runtimeconfig.json
+C:\Users\swb\Documents\Projects\dotNet\app8\bin\Debug\netcoreapp2.0\app8.runtimeconfig.dev.json
+C:\Users\swb\Documents\Projects\dotNet\app8\bin\Debug\netcoreapp2.0\app8.dll
+C:\Users\swb\Documents\Projects\dotNet\app8\bin\Debug\netcoreapp2.0\app8.pdb
+C:\Users\swb\Documents\Projects\dotNet\app8\obj\Debug\netcoreapp2.0\app8.csproj.CoreCompileInputs.cache
+C:\Users\swb\Documents\Projects\dotNet\app8\obj\Debug\netcoreapp2.0\app8.AssemblyInfoInputs.cache
+C:\Users\swb\Documents\Projects\dotNet\app8\obj\Debug\netcoreapp2.0\app8.AssemblyInfo.cs
+C:\Users\swb\Documents\Projects\dotNet\app8\obj\Debug\netcoreapp2.0\app8.dll
+C:\Users\swb\Documents\Projects\dotNet\app8\obj\Debug\netcoreapp2.0\app8.pdb
