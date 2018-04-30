@@ -61,7 +61,6 @@ namespace app7.Models
             {
                 text = text.Replace(chr, "");
             }
-
             return text;
         }
 
@@ -78,7 +77,6 @@ namespace app7.Models
                     stringBuilder.Append(c);
                 }
             }
-
             return stringBuilder.ToString().Normalize(NormalizationForm.FormC);
         }
 
