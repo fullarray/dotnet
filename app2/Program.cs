@@ -7,10 +7,8 @@ namespace app2
         static void Main(string[] args)
         {
             Console.Write("Enter a number: ");
-
             int num;
             num = Convert.ToInt32(Console.ReadLine());
-            
             int k;
             k=0;
 
@@ -21,7 +19,6 @@ namespace app2
                     k++;
                 }
             }
-
             if(k == 1)
             {
                 Console.WriteLine("Number is a Prime number.");
