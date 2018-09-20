@@ -4,9 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-
 //This controller manages only simple aspects of the application.
-
 namespace app1.Controllers
 {
     public class HomeController : Controller
