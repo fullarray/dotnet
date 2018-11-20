@@ -21,11 +21,11 @@ namespace app2
             }
             if(k == 1)
             {
-                Console.WriteLine("Number is a Prime number.");
+                Console.WriteLine("Number is a Prime number. Awesome");
             }
             else
             {
-                Console.WriteLine("Not a Prime number.");
+                Console.WriteLine("Not a Prime number. Too bad");
             }
             Console.ReadLine();
         }
