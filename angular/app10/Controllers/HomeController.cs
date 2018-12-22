@@ -13,7 +13,6 @@ namespace app10.Controllers
         {
             return View();
         }
-
         public IActionResult Error()
         {
             ViewData["RequestId"] = Activity.Current?.Id ?? HttpContext.TraceIdentifier;
