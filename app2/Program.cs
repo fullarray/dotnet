@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace app2
 {
@@ -21,7 +21,7 @@ namespace app2
             }
             if(k == 1)
             {
-                Console.WriteLine("Number is a Prime number. Awesome");
+                Console.WriteLine("Number is a Prime number.");
             }
             else
             {
