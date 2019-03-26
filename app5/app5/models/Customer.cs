@@ -14,7 +14,7 @@ namespace app5.models
         public int CustomerID { get; set; }
         [Required(ErrorMessage = "Enter Name")]
         public string Name { get; set; }
-        [Required(ErrorMessage = "Enter Address")]
+        [Required(ErrorMessage = "Enter Address please")]
         public string Address { get; set; }
         [Required(ErrorMessage = "Enter Country Name")]
         public string Country { get; set; }
@@ -22,6 +22,5 @@ namespace app5.models
         public string City { get; set; }
         [Required(ErrorMessage = "Enter City Phoneno")]
         public string Phoneno { get; set; }
-
     }
 }
