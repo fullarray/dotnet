@@ -261,8 +261,7 @@
         },
         "compile": {
           "lib/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
+        },"runtime": {
           "lib/netcoreapp2.0/_._": {}
         },
         "build": {
