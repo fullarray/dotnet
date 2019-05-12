@@ -17,7 +17,6 @@ namespace app7
         private List<Post> _cache = new List<Post>();
         private IHttpContextAccessor _contextAccessor;
         private string _folder;
-
         public FileBlogService(IHostingEnvironment env, IHttpContextAccessor contextAccessor)
         {
             _folder = Path.Combine(env.WebRootPath, "posts");
