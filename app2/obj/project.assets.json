@@ -156,8 +156,7 @@
         "build": {
           "build/netcoreapp2.0/Microsoft.NETCore.App.props": {},
           "build/netcoreapp2.0/Microsoft.NETCore.App.targets": {}
-        }
-      },
+        }},
       "Microsoft.NETCore.DotNetAppHost/2.0.0": {
         "type": "package"
       },
