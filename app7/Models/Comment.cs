@@ -25,9 +25,7 @@ namespace app7.Models
 
         [Required]
         public DateTime PubDate { get; set; } = DateTime.UtcNow;
-
         public bool IsAdmin { get; set; }
-
         public string GetGravatar()
         {
             using (var md5 = System.Security.Cryptography.MD5.Create())
