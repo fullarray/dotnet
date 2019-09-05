@@ -11,7 +11,6 @@ namespace app2
             num = Convert.ToInt32(Console.ReadLine());
             int k;
             k=0;
-
             for(int i = 1; i <= num/2; i++)
             {
                 if(num % i == 0)
