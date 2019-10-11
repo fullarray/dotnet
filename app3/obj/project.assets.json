@@ -8,8 +8,7 @@
           "Microsoft.NETCore.DotNetHostPolicy": "2.0.0",
           "Microsoft.NETCore.Platforms": "2.0.0",
           "NETStandard.Library": "2.0.0"
-        },
-        "compile": {
+        },"compile": {
           "ref/netcoreapp2.0/Microsoft.CSharp.dll": {},
           "ref/netcoreapp2.0/Microsoft.VisualBasic.dll": {},
           "ref/netcoreapp2.0/Microsoft.Win32.Primitives.dll": {},
