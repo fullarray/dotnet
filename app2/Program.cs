@@ -14,8 +14,7 @@ namespace app2
             for(int i = 1; i <= num/2; i++)
             {
                 if(num % i == 0)
-                {
-                    k++;
+                {  k++;
                 }
             }
             if(k == 1)
