@@ -13,7 +13,6 @@ function getCount(data){
 		el.html('No '+ name);
 	}
 }
-
 $(document).ready(function(){
 	getData()
 });
