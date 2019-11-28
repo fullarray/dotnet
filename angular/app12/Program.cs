@@ -10,10 +10,9 @@ using Microsoft.Extensions.Logging;
 using app12.Models;
 
 namespace app12
-{
-    public class Program
+{    public class Program
     {
-        //main driver
+        //main drivers
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
