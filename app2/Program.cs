@@ -19,7 +19,7 @@ namespace app2
             }
             if(k == 1)
             {
-                Console.WriteLine("Number is a Prime number.");
+                Console.WriteLine("Number is a Prime number.. ");
             }
             else
             {
