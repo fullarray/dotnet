@@ -1,10 +1,8 @@
 using System;
 
 namespace app2
-{
-    class Program
-    {
-        static void Main(string[] args)
+{    class Program
+    {   static void Main(string[] args)
         {
             Console.Write("Enter one number ");
             int num;
