@@ -1,6 +1,5 @@
 {
-  "version": 3,
-  "targets": {
+  "version": 3,"targets": {
     ".NETCoreApp,Version=v2.0": {
       "Microsoft.NETCore.App/2.0.0": {
         "type": "package",
