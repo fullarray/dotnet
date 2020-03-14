@@ -3,7 +3,7 @@ namespace hwapp
 {
     class Program
     {
-        //int results
+        //int resultss
         static void Main(string[] args)
         {
             Program p = new Program();
