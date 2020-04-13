@@ -9,7 +9,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using app5.models;
 using Microsoft.EntityFrameworkCore;
-
 namespace app5
 {
     public class Startup
