@@ -4,7 +4,7 @@ namespace hwapp
 {
     class Program
     {
-        //int results
+        //ints results
         static void Main(string[] args)
         {
             Program p = new Program();
