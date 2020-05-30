@@ -1,7 +1,7 @@
 using System;
 namespace hwapp
 {class Program
-    { //int resultss
+    { //int result
         static void Main(string[] args)
         {
             Program p = new Program();
