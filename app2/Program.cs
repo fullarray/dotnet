@@ -6,8 +6,7 @@ namespace app2
             Console.Write("Enter one numbers ");
             int num;
             num = Convert.ToInt32(Console.ReadLine());
-            int k;
-            k=0;
+            int k; k=0;
             for(int i = 1; i <= num/2; i++)
             {
                 if(num % i == 0)
