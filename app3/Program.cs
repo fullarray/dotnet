@@ -1,7 +1,7 @@
 using System;
 namespace hwapp
 {class Program
-    { //int result
+    { //int results
         static void Main(string[] args)
         {
             Program p = new Program();
@@ -10,7 +10,6 @@ namespace hwapp
             {
               Console.WriteLine("Hello "+ args[i]+"!");
             }
-
             p.sum(4,6);
             p.divide(3.0, 3.0);
         }
