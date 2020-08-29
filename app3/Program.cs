@@ -1,8 +1,8 @@
 using System;
 namespace hwapp
 {class Program
-    { //int results
-        static void Main(string[] args)
+    { //int result
+    static void Main(string[] args)
         {
             Program p = new Program();
             Console.WriteLine("Hello "+ args[0]+"!" + " from outside the loop!");
