@@ -13,7 +13,6 @@ using WebEssentials.AspNetCore.OutputCaching;
 using WebMarkupMin.AspNetCore2;
 using WebMarkupMin.Core;
 using WilderMinds.MetaWeblog;
-
 namespace app7
 {
     public class Startup
