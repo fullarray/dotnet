@@ -1,9 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
-
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
-
   <ItemGroup>
     <PackageReference Include="Azure.ImageOptimizer" Version="1.0.0.38" />
     <PackageReference Include="LigerShark.WebOptimizer.Core" Version="1.0.175-beta" />
