@@ -12,7 +12,7 @@ using app12.Models;
 namespace app12
 {    public class Program
     {
-        //main drivers
+        //main driver
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
