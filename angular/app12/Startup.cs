@@ -6,12 +6,8 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-
 using Microsoft.Extensions.Logging;
-
 using Microsoft.Extensions.Options;
-
-
 
 namespace app12
 {
@@ -21,7 +17,7 @@ namespace app12
         {
             Configuration = configuration;
         }
-        public IConfiguration Configuration { get; }
+        public IConfiguration Configuration { get; set;}
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
