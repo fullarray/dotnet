@@ -1,4 +1,4 @@
-//This are the libraries and dependencies needed for this project to works
+//This are the libraries and dependencies needed for this project to work
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
