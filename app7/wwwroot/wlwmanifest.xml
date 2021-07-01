@@ -2,10 +2,15 @@
 <manifest xmlns="http://schemas.microsoft.com/wlw/manifest/weblog">
   <options>
     <clientType>Metaweblog</clientType>
+    
     <supportsEmbeds>Yes</supportsEmbeds>
+    
     <supportsKeywords>No</supportsKeywords>
+    
     <supportsNewCategories>Yes</supportsNewCategories>
+    
     <supportsNewCategoriesInline>Yes</supportsNewCategoriesInline>
+    
     <supportsCommentPolicy>No</supportsCommentPolicy>
     <supportsSlug>Yes</supportsSlug>
     <supportsExcerpt>No</supportsExcerpt>
