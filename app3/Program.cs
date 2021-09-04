@@ -7,7 +7,6 @@ namespace hwapp
     static void Main(string[] args)
         {
             Program p = new Program();
-        
             Console.WriteLine("Hello "+ args[0]+"!" + " from outside the loop!");
             for (int i=0; i< args.Length; i++)
             {
