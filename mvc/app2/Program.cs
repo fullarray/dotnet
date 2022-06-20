@@ -7,10 +7,9 @@ namespace app2
         static void Main(string[] args)
         {
             Console.Write("Enter a numbers: ");
-
             int num;
-            num = Convert.ToInt32(Console.ReadLine());
             
+            num = Convert.ToInt32(Console.ReadLine());
             int k;
             k=0;
 
